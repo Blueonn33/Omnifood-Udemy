@@ -116,6 +116,7 @@ SPACING SYSTEM (px)
   /* MOBILE NAVIGATION*/
   .btn-mobile-nav {
     display: block;
+    z-index: 17;
   }
   .main-nav {
     position: absolute;
