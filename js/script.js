@@ -30,7 +30,7 @@ allLinks.forEach(function (link) {
     }
     // Close mobile navigation
     if (link.classList.contains("main-nav-link")) {
-      link.classList.toggle("nav-open");
+      headerEl.classList.toggle("nav-open");
     }
   });
 });
